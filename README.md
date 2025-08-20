@@ -1,4 +1,4 @@
-This repository contains the source codes for the paper, '**{Paper Name} **'.
+This repository contains the source codes for the paper, '**{Improved Differential Cryptanalysis of ARADI} **'.
 
 ## Language Used for code
 1. C-language
